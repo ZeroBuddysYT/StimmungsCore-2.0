@@ -1,0 +1,5 @@
+name: StimmungsSystem
+version: 1.0.0
+main: net.zerobuddys.stimmung.main
+api: ["1.0.8"]
+author: ZeroBuddysYT
